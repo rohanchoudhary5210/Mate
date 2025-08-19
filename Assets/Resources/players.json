@@ -1,0 +1,124 @@
+{
+  "players": [
+    {
+      "id": "00124985",
+      "name": "Alex Hunter",
+      "level": 12,
+      "igindex": 1
+    },
+    {
+      "id": "00124986",
+      "name": "Sophia Reed",
+      "level": 8,
+      "igindex": 2
+    },
+    {
+      "id": "00124987",
+      "name": "Liam Carter",
+      "level": 15,
+      "igindex": 3
+    },
+    {
+      "id": "00124988",
+      "name": "Olivia Brooks",
+      "level": 20,
+      "igindex": 4
+    },
+    {
+      "id": "00124989",
+      "name": "Ethan Gray",
+      "level": 6,
+      "igindex": 5
+    },
+    {
+      "id": "00124990",
+      "name": "Emma Scott",
+      "level": 18,
+      "igindex": 6
+    },
+    {
+      "id": "00124991",
+      "name": "Noah Bennett",
+      "level": 10,
+      "igindex": 7
+    },
+    {
+      "id": "00124992",
+      "name": "Ava Collins",
+      "level": 7,
+      "igindex": 8
+    },
+    {
+      "id": "00124993",
+      "name": "James Walker",
+      "level": 22,
+      "igindex": 9
+    },
+    {
+      "id": "00124994",
+      "name": "Mia Turner",
+      "level": 11,
+      "igindex": 10
+    },
+    {
+      "id": "00124995",
+      "name": "William Hughes",
+      "level": 14,
+      "igindex": 11
+    },
+    {
+      "id": "00124996",
+      "name": "Isabella Ward",
+      "level": 9,
+      "igindex": 12
+    },
+    {
+      "id": "00124997",
+      "name": "Benjamin King",
+      "level": 19,
+      "igindex": 13
+    },
+    {
+      "id": "00124998",
+      "name": "Charlotte Adams",
+      "level": 16,
+      "igindex": 14
+    },
+    {
+      "id": "00124999",
+      "name": "Daniel Lewis",
+      "level": 13,
+      "igindex": 15
+    },
+    {
+      "id": "00125000",
+      "name": "Amelia Clark",
+      "level": 5,
+      "igindex": 16
+    },
+    {
+      "id": "00125001",
+      "name": "Henry Martin",
+      "level": 17,
+      "igindex": 17
+    },
+    {
+      "id": "00125002",
+      "name": "Evelyn Hall",
+      "level": 21,
+      "igindex": 18
+    },
+    {
+      "id": "00125003",
+      "name": "Michael Allen",
+      "level": 4,
+      "igindex": 19
+    },
+    {
+      "id": "00125004",
+      "name": "Harper Young",
+      "level": 23,
+      "igindex": 20
+    }
+  ]
+}
