@@ -1,204 +1,202 @@
-{
-  "players": [
-    {
-      "id": "00124985",
-      "name": "Alex Hunter",
-      "level": 12,
-      "profilePictureIndex": 1,
-      "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124986",
-      "name": "Sophia Reed",
-      "level": 8,
-      "profilePictureIndex": 2,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124987",
-      "name": "Liam Carter",
-      "level": 15,
-      "profilePictureIndex": 3,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124988",
-      "name": "Olivia Brooks",
-      "level": 20,
-      "profilePictureIndex": 4,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124989",
-      "name": "Ethan Gray",
-      "level": 6,
-      "profilePictureIndex": 5,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124990",
-      "name": "Emma Scott",
-      "level": 18,
-      "profilePictureIndex": 6,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124991",
-      "name": "Noah Bennett",
-      "level": 10,
-      "profilePictureIndex": 7,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124992",
-      "name": "Ava Collins",
-      "level": 7,
-      "profilePictureIndex": 8,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124993",
-      "name": "James Walker",
-      "level": 22,
-      "profilePictureIndex": 9,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124994",
-      "name": "Mia Turner",
-      "level": 11,
-      "profilePictureIndex": 10,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124995",
-      "name": "William Hughes",
-      "level": 14,
-      "profilePictureIndex": 11,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124996",
-      "name": "Isabella Ward",
-      "level": 9,
-      "profilePictureIndex": 12,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124997",
-      "name": "Benjamin King",
-      "level": 19,
-      "profilePictureIndex": 13,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124998",
-      "name": "Charlotte Adams",
-      "level": 16,
-      "profilePictureIndex": 14,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00124999",
-      "name": "Daniel Lewis",
-      "level": 13,
-      "profilePictureIndex": 15,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00125000",
-      "name": "Amelia Clark",
-      "level": 5,
-      "profilePictureIndex": 16,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00125001",
-      "name": "Henry Martin",
-      "level": 17,
-      "profilePictureIndex": 17,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00125002",
-      "name": "Evelyn Hall",
-      "level": 21,
-      "profilePictureIndex": 18,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00125003",
-      "name": "Michael Allen",
-      "level": 4,
-      "profilePictureIndex": 19,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
-    },
-    {
-      "id": "00125004",
-      "name": "Harper Young",
-      "level": 23,
-      "profilePictureIndex": 20,
-       "Details": {
-        "X value": 1,
-        "Y value": 2
-      }
+[
+  {
+    "id": "00124985",
+    "name": "Alex Hunter",
+    "level": 12,
+    "profilePictureIndex": 1,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
     }
-  ]
-}
+  },
+  {
+    "id": "00124986",
+    "name": "Sophia Reed",
+    "level": 8,
+    "profilePictureIndex": 2,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124987",
+    "name": "Liam Carter",
+    "level": 15,
+    "profilePictureIndex": 3,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124988",
+    "name": "Olivia Brooks",
+    "level": 20,
+    "profilePictureIndex": 4,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124989",
+    "name": "Ethan Gray",
+    "level": 6,
+    "profilePictureIndex": 5,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124990",
+    "name": "Emma Scott",
+    "level": 18,
+    "profilePictureIndex": 6,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124991",
+    "name": "Noah Bennett",
+    "level": 10,
+    "profilePictureIndex": 7,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124992",
+    "name": "Ava Collins",
+    "level": 7,
+    "profilePictureIndex": 8,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124993",
+    "name": "James Walker",
+    "level": 22,
+    "profilePictureIndex": 9,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124994",
+    "name": "Mia Turner",
+    "level": 11,
+    "profilePictureIndex": 10,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124995",
+    "name": "William Hughes",
+    "level": 14,
+    "profilePictureIndex": 11,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124996",
+    "name": "Isabella Ward",
+    "level": 9,
+    "profilePictureIndex": 12,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124997",
+    "name": "Benjamin King",
+    "level": 19,
+    "profilePictureIndex": 13,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124998",
+    "name": "Charlotte Adams",
+    "level": 16,
+    "profilePictureIndex": 14,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00124999",
+    "name": "Daniel Lewis",
+    "level": 13,
+    "profilePictureIndex": 15,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00125000",
+    "name": "Amelia Clark",
+    "level": 5,
+    "profilePictureIndex": 16,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00125001",
+    "name": "Henry Martin",
+    "level": 17,
+    "profilePictureIndex": 17,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00125002",
+    "name": "Evelyn Hall",
+    "level": 21,
+    "profilePictureIndex": 18,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00125003",
+    "name": "Michael Allen",
+    "level": 4,
+    "profilePictureIndex": 19,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  },
+  {
+    "id": "00125004",
+    "name": "Harper Young",
+    "level": 23,
+    "profilePictureIndex": 20,
+    "Details": {
+      "X value": 1,
+      "Y value": 2
+    }
+  }
+]

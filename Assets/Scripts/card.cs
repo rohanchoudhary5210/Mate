@@ -18,7 +18,7 @@ public class card : MonoBehaviour
     [SerializeField] private Button button;
 
 
-    // bgindex is passed as an argument, so it's a local parameter
+
     public void InitializeCardData(player data, int bgindex)
     {
         nameText.text = data.name;
@@ -39,6 +39,7 @@ public class card : MonoBehaviour
         data.details["X value"] = data.level;
         data.details["Y value"] = bgindex;
         details.text = $"X: {data.details["X value"]}, Y: {data.details["Y value"]}";
+        //Loader.instance.changeData(data);
         string jsonString = JsonConvert.SerializeObject(data, Formatting.Indented);
         Loader.instance.LoadPlayerData(jsonString,bgindex);
         // Debug.Log("Serialized player data: " + jsonString);
