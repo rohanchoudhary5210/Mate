@@ -48,9 +48,9 @@ public class Loader : MonoBehaviour
 
         string updatedJsonString = JsonConvert.SerializeObject(originalData, Formatting.Indented);
         Debug.Log("Updated JSON: " + updatedJsonString);
-        File.WriteAllText(Application.persistentDataPath + "/NewJson.json", updatedJsonString);
-        Debug.Log("Data saved to: " + Application.persistentDataPath + "/NewJson.json");
-        
+        File.WriteAllText("D:/Co/C/Assets/Resources/NewJson.json", updatedJsonString);
+        Debug.Log("Data saved to: D:/Co/C/Assets/Resources/NewJson.json");
+
         // Debug.Log("Loading player data: " + jsonString);
         // TextAsset data = Resources.Load<TextAsset>("NewJson");
         // 

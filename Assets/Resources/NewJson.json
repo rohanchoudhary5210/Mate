@@ -1,22 +1,22 @@
 [
   {
-    "id": "00124985",
     "name": "Alex Hunter",
+    "id": "00124985",
     "level": 12,
-    "profilePictureIndex": 1,
-    "Details": {
-      "X value": 1,
-      "Y value": 2
+    "igindex": 0,
+    "details": {
+      "X value": 12,
+      "Y value": 0
     }
   },
   {
-    "id": "00124986",
     "name": "Sophia Reed",
+    "id": "00124986",
     "level": 8,
-    "profilePictureIndex": 2,
-    "Details": {
-      "X value": 1,
-      "Y value": 2
+    "igindex": 0,
+    "details": {
+      "X value": 8,
+      "Y value": 1
     }
   },
   {
