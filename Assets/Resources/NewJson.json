@@ -30,13 +30,13 @@
     }
   },
   {
-    "id": "00124988",
     "name": "Olivia Brooks",
+    "id": "00124988",
     "level": 20,
-    "profilePictureIndex": 4,
-    "Details": {
-      "X value": 1,
-      "Y value": 2
+    "igindex": 0,
+    "details": {
+      "X value": 20,
+      "Y value": 3
     }
   },
   {
